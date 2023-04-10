@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Receita de Bolo</title>
+  </head>
+  <body>
+    <h1>Receita de Bolo</h1>
+    <p style="font-family: Courier, monospace; font-size: larger; font-style: normal; font-weight: 800;">
+      Ingredientes:
+      <br>
+      - 2 xícaras de açúcar
+      <br>
+      - 3 xícaras de farinha de trigo
+      <br>
+      - 4 ovos
+      <br>
+      - 1 xícara de óleo
+      <br>
+      - 1 xícara de leite
+    </p>
+    <p style="font-family: Verdana, sans-serif; font-size: small; font-style: italic; font-weight: 200;">
+      Modo de preparo:
+      <br>
+      Misture todos os ingredientes em uma tigela e bata com uma batedeira até obter uma massa homogênea. Despeje em uma forma untada e leve ao forno preaquecido por 30 minutos.
+    </p>
+    <p style="font-family: 'Courier New', monospace; font-size: normal; font-style: oblique; font-weight: 500;">
+      Cobertura:
+      <br>
+      - 1 lata de leite condensado
+      <br>
+      - 1 caixa de creme de leite
+      <br>
+      - 1/2 xícara de leite em pó
+      <br>
+      Misture todos os ingredientes em uma panela e leve ao fogo baixo, mexendo sempre, até obter uma consistência cremosa. Despeje sobre o bolo já assado e deixe esfriar.
+    </p>
+    <p style="font-family: Fantasy, cursive; font-size: x-small; font-style: normal; font-weight: 400;">
+      Sirva em fatias e bom apetite!
+    </p>
+  </body>
+</html>
