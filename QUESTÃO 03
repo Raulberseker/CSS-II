@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Minha Receita</title>
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="recipe">
+      <h1>Lasanha de Berinjela</h1>
+      <h2>Ingredientes</h2>
+      <ul>
+        <li><span class="mandatory">1 Berinjela grande</span></li>
+        <li><span class="optional">200g de mussarela</span></li>
+        <li><span class="mandatory">1 lata de molho de tomate</span></li>
+        <li><span class="mandatory">500g de carne moída</span></li>
+        <li><span class="optional">300g de presunto</span></li>
+        <li><span class="mandatory">1 cebola picada</span></li>
+        <li><span class="mandatory">2 dentes de alho picados</span></li>
+        <li><span class="mandatory">2 colheres (sopa) de azeite</span></li>
+        <li><span class="mandatory">Sal e pimenta a gosto</span></li>
+      </ul>
+      <h2>Modo de Preparo</h2>
+      <ol>
+        <li>Corte a berinjela em fatias finas e deixe de molho em água com sal por 30 minutos.</li>
+        <li>Enquanto isso, refogue a cebola e o alho no azeite até dourar.</li>
+        <li>Adicione a carne moída e frite até ficar bem soltinha.</li>
+        <li>Acrescente o molho de tomate, sal e pimenta a gosto e deixe cozinhar por 10 minutos.</li>
+        <li>Em um refratário, alterne camadas de berinjela, carne moída e mussarela.</li>
+        <li>Finalize com uma camada de mussarela e leve ao forno pré-aquecido a 180°C por 30 minutos.</li>
+      </ol>
+      <p><em>Tempo de Preparo: 1 hora</em></p>
+    </div>
+  </body>
+</html>
